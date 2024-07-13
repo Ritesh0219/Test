@@ -4,10 +4,10 @@ var status1 = "";
 document.getElementById('toggleButton').addEventListener('change', function() {
     if (this.checked) {
         status1 = "on";
-        $("h2").html("Bluetooth : On");
+        $("h3").html("Bluetooth : On");
     } else {
          status1 = "off";
-         $("h2").html("Bluetooth : off");
+         $("h3").html("Bluetooth : off");
     }
 });
 

@@ -23,13 +23,14 @@ container3{
     justify-content: center;
 }
 
-h1{
+h2{
+    text-align: center;
     margin-top: 200px;
     color: blue;
     font-family: sans-serif;
 }
 
-h2{
+h3{
     color: white;
     margin-right: 8px;
     margin-top: 2px;
